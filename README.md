@@ -1,13 +1,18 @@
-# Sample Hardhat Project
+# Triangular Arbitrage with Flashloan.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Built with Hardhat.
 
-Try running some of the following tasks:
+Modify to taste, 
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+To deploy smart contract, run the file in scripts/deploy.js on your terminal <em>`node scripts/deploy.js`</em>
+
+To start flashloan script, replace your private key in scripts/flashloan.js and and run on your terminal, <b>`node scripts/flashloan.js`</b>
+
+
+# TO DO
+
+<ul>
+<li> Automate sporting of artitrage opportunity and run flashloan automatically</li>
+<li> Add Crosschain Support </li>
+</ul>
+
