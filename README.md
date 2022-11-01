@@ -1,8 +1,8 @@
 # Triangular Arbitrage with Flashloan.
 
-Built with Hardhat.
+<i>Built with Hardhat.</i>
 
-Modify to taste, 
+<b>Feel Free To Modify to Taste!.</b>
 
 To deploy smart contract, run the file in scripts/deploy.js on your terminal <em>`node scripts/deploy.js`</em>
 
